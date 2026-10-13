@@ -1,0 +1,606 @@
+[
+{ "id": "s1000-001", "en": "I want you to be quicker.", "es": "Quiero que seas más rápido.", "alt": ["Quiero que usted sea más rápido."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Quiero", "id": 51, "gloss": "I want", "form": "querer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "seas", "id": 8, "gloss": "you be", "form": "ser · present subjunctive · tú" },
+  { "t": "más", "id": 23, "gloss": "more" },
+  { "t": "rápido", "id": 928, "gloss": "fast" }
+] },
+{ "id": "s1000-002", "en": "I want you to arrive early. (formal)", "es": "Quiero que usted llegue temprano.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Quiero", "id": 51, "gloss": "I want", "form": "querer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "usted", "id": 84, "gloss": "you (formal)" },
+  { "t": "llegue", "id": 59, "gloss": "arrive", "form": "llegar · present subjunctive · usted" },
+  { "t": "temprano", "id": 950, "gloss": "early" }
+] },
+{ "id": "s1000-003", "en": "I want them to live nearby.", "es": "Quiero que ellos vivan cerca.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Quiero", "id": 51, "gloss": "I want", "form": "querer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "ellos", "id": 83, "gloss": "they" },
+  { "t": "vivan", "id": 121, "gloss": "live", "form": "vivir · present subjunctive · ellos" },
+  { "t": "cerca", "id": 952, "gloss": "nearby" }
+] },
+{ "id": "s1000-004", "en": "I want us to finish soon.", "es": "Quiero que terminemos pronto.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Quiero", "id": 51, "gloss": "I want", "form": "querer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "terminemos", "id": 139, "gloss": "we finish", "form": "terminar · present subjunctive · nosotros" },
+  { "t": "pronto", "id": 949, "gloss": "soon" }
+] },
+{ "id": "s1000-005", "en": "I want my friend to really understand.", "es": "Quiero que mi amigo entienda realmente.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Quiero", "id": 51, "gloss": "I want", "form": "querer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "mi", "id": 46, "gloss": "my" },
+  { "t": "amigo", "id": 392, "gloss": "friend" },
+  { "t": "entienda", "id": 136, "gloss": "understand", "form": "entender · present subjunctive · él" },
+  { "t": "realmente", "id": 945, "gloss": "really" }
+] },
+{ "id": "s1000-006", "en": "I don't want you to go so soon.", "es": "No quiero que vayas tan pronto.", "alt": ["No quiero que usted vaya tan pronto."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "No", "id": 10, "gloss": "not" },
+  { "t": "quiero", "id": 51, "gloss": "I want", "form": "querer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "vayas", "id": 29, "gloss": "you go", "form": "ir · present subjunctive · tú" },
+  { "t": "tan", "id": 71, "gloss": "so", "form": "tanto · apocope" },
+  { "t": "pronto", "id": 949, "gloss": "soon" }
+] },
+{ "id": "s1000-007", "en": "I want them to be slower.", "es": "Quiero que sean más lentos.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Quiero", "id": 51, "gloss": "I want", "form": "querer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "sean", "id": 8, "gloss": "they be", "form": "ser · present subjunctive · ellos" },
+  { "t": "más", "id": 23, "gloss": "more" },
+  { "t": "lentos", "id": 929, "gloss": "slow", "form": "lento · plural" }
+] },
+{ "id": "s1000-008", "en": "I hope it isn't too late.", "es": "Espero que no sea demasiado tarde.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Espero", "id": 127, "gloss": "I hope", "form": "esperar · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "no", "id": 10, "gloss": "not" },
+  { "t": "sea", "id": 8, "gloss": "it is", "form": "ser · present subjunctive · él" },
+  { "t": "demasiado", "id": 935, "gloss": "too" },
+  { "t": "tarde", "id": 539, "gloss": "late" }
+] },
+{ "id": "s1000-009", "en": "I hope you have enough money. (formal)", "es": "Espero que usted tenga bastante dinero.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Espero", "id": 127, "gloss": "I hope", "form": "esperar · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "usted", "id": 84, "gloss": "you (formal)" },
+  { "t": "tenga", "id": 18, "gloss": "have", "form": "tener · present subjunctive · usted" },
+  { "t": "bastante", "id": 936, "gloss": "enough" },
+  { "t": "dinero", "id": 453, "gloss": "money" }
+] },
+{ "id": "s1000-010", "en": "I hope the current plan works.", "es": "Espero que el plan actual sirva.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Espero", "id": 127, "gloss": "I hope", "form": "esperar · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "actual", "id": 993, "gloss": "current" },
+  { "t": "sirva", "id": 144, "gloss": "works", "form": "servir · present subjunctive · él" }
+] },
+{ "id": "s1000-011", "en": "I hope you understand the following rule.", "es": "Espero que entiendas la regla siguiente.", "alt": ["Espero que usted entienda la regla siguiente."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Espero", "id": 127, "gloss": "I hope", "form": "esperar · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "entiendas", "id": 136, "gloss": "you understand", "form": "entender · present subjunctive · tú" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "regla", "id": 755, "gloss": "rule" },
+  { "t": "siguiente", "id": 996, "gloss": "following" }
+] },
+{ "id": "s1000-012", "en": "I hope there's an available doctor.", "es": "Espero que haya un médico disponible.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Espero", "id": 127, "gloss": "I hope", "form": "esperar · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "haya", "id": 11, "gloss": "there is", "form": "haber · present subjunctive · impersonal" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "médico", "id": 466, "gloss": "doctor" },
+  { "t": "disponible", "id": 997, "gloss": "available" }
+] },
+{ "id": "s1000-013", "en": "I hope the general plan works.", "es": "Espero que el plan general sirva.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Espero", "id": 127, "gloss": "I hope", "form": "esperar · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "general", "id": 911, "gloss": "general" },
+  { "t": "sirva", "id": 144, "gloss": "works", "form": "servir · present subjunctive · él" }
+] },
+{ "id": "s1000-014", "en": "I hope you have enough free time.", "es": "Espero que tengas tiempo suficiente.", "alt": ["Espero que usted tenga tiempo suficiente."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Espero", "id": 127, "gloss": "I hope", "form": "esperar · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "tengas", "id": 18, "gloss": "you have", "form": "tener · present subjunctive · tú" },
+  { "t": "tiempo", "id": 77, "gloss": "time" },
+  { "t": "suficiente", "id": 998, "gloss": "enough" }
+] },
+{ "id": "s1000-015", "en": "It's important that the main door stays closed. (formal)", "es": "Es importante que la puerta principal esté cerrada.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "importante", "id": 853, "gloss": "important" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "puerta", "id": 420, "gloss": "door" },
+  { "t": "principal", "id": 913, "gloss": "main" },
+  { "t": "esté", "id": 17, "gloss": "stays", "form": "estar · present subjunctive · ella" },
+  { "t": "cerrada", "id": 848, "gloss": "closed", "form": "cerrado · feminine" }
+] },
+{ "id": "s1000-016", "en": "It's important that we understand the local plan.", "es": "Es importante que entendamos el plan local.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "importante", "id": 853, "gloss": "important" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "entendamos", "id": 136, "gloss": "we understand", "form": "entender · present subjunctive · nosotros" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "local", "id": 915, "gloss": "local" }
+] },
+{ "id": "s1000-017", "en": "It's important that they don't lose the national game.", "es": "Es importante que no pierdan el partido nacional.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "importante", "id": 853, "gloss": "important" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "no", "id": 10, "gloss": "not" },
+  { "t": "pierdan", "id": 133, "gloss": "they lose", "form": "perder · present subjunctive · ellos" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "partido", "id": 720, "gloss": "game" },
+  { "t": "nacional", "id": 916, "gloss": "national" }
+] },
+{ "id": "s1000-018", "en": "It's important that you be strong.", "es": "Es importante que seas fuerte.", "alt": ["Es importante que usted sea fuerte."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "importante", "id": 853, "gloss": "important" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "seas", "id": 8, "gloss": "you be", "form": "ser · present subjunctive · tú" },
+  { "t": "fuerte", "id": 926, "gloss": "strong" }
+] },
+{ "id": "s1000-019", "en": "It's important that the news be true.", "es": "Es importante que la noticia sea verdadera.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "importante", "id": 853, "gloss": "important" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "noticia", "id": 518, "gloss": "news" },
+  { "t": "sea", "id": 8, "gloss": "be", "form": "ser · present subjunctive · ella" },
+  { "t": "verdadera", "id": 907, "gloss": "true", "form": "verdadero · feminine" }
+] },
+{ "id": "s1000-020", "en": "It's important that you know the previous rule. (formal)", "es": "Es importante que usted conozca la regla anterior.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "importante", "id": 853, "gloss": "important" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "usted", "id": 84, "gloss": "you (formal)" },
+  { "t": "conozca", "id": 120, "gloss": "know", "form": "conocer · present subjunctive · usted" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "regla", "id": 755, "gloss": "rule" },
+  { "t": "anterior", "id": 995, "gloss": "previous" }
+] },
+{ "id": "s1000-021", "en": "It's important that the central bank helps.", "es": "Es importante que el banco central ayude.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "importante", "id": 853, "gloss": "important" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "banco", "id": 606, "gloss": "bank" },
+  { "t": "central", "id": 914, "gloss": "central" },
+  { "t": "ayude", "id": 184, "gloss": "helps", "form": "ayudar · present subjunctive · él" }
+] },
+{ "id": "s1000-022", "en": "Hopefully the current price is low.", "es": "Ojalá que el precio actual sea bajo.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Ojalá", "id": 156, "gloss": "hopefully" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "precio", "id": 454, "gloss": "price" },
+  { "t": "actual", "id": 993, "gloss": "current" },
+  { "t": "sea", "id": 8, "gloss": "is", "form": "ser · present subjunctive · él" },
+  { "t": "bajo", "id": 107, "gloss": "low" }
+] },
+{ "id": "s1000-023", "en": "Hopefully we finish soon.", "es": "Ojalá que terminemos pronto.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Ojalá", "id": 156, "gloss": "hopefully" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "terminemos", "id": 139, "gloss": "we finish", "form": "terminar · present subjunctive · nosotros" },
+  { "t": "pronto", "id": 949, "gloss": "soon" }
+] },
+{ "id": "s1000-024", "en": "Hopefully you find an available table.", "es": "Ojalá que encuentres una mesa disponible.", "alt": ["Ojalá que usted encuentre una mesa disponible."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Ojalá", "id": 156, "gloss": "hopefully" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "encuentres", "id": 113, "gloss": "you find", "form": "encontrar · present subjunctive · tú" },
+  { "t": "una", "id": 7, "gloss": "a", "form": "un · feminine" },
+  { "t": "mesa", "id": 422, "gloss": "table" },
+  { "t": "disponible", "id": 997, "gloss": "available" }
+] },
+{ "id": "s1000-025", "en": "Hopefully they don't arrive too late.", "es": "Ojalá que no lleguen demasiado tarde.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Ojalá", "id": 156, "gloss": "hopefully" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "no", "id": 10, "gloss": "not" },
+  { "t": "lleguen", "id": 59, "gloss": "they arrive", "form": "llegar · present subjunctive · ellos" },
+  { "t": "demasiado", "id": 935, "gloss": "too" },
+  { "t": "tarde", "id": 539, "gloss": "late" }
+] },
+{ "id": "s1000-026", "en": "Hopefully the enormous problem has a solution.", "es": "Ojalá que el problema enorme tenga solución.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Ojalá", "id": 156, "gloss": "hopefully" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "problema", "id": 482, "gloss": "problem" },
+  { "t": "enorme", "id": 999, "gloss": "enormous" },
+  { "t": "tenga", "id": 18, "gloss": "has", "form": "tener · present subjunctive · él" },
+  { "t": "solución", "id": 483, "gloss": "solution" }
+] },
+{ "id": "s1000-027", "en": "Hopefully everything is fine, finally.", "es": "Ojalá que todo esté bien, finalmente.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Ojalá", "id": 156, "gloss": "hopefully" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "todo", "id": 21, "gloss": "everything" },
+  { "t": "esté", "id": 17, "gloss": "is", "form": "estar · present subjunctive · él" },
+  { "t": "bien", "id": 88, "gloss": "fine" },
+  { "t": "finalmente", "id": 948, "gloss": "finally" }
+] },
+{ "id": "s1000-028", "en": "Hopefully she is nearby.", "es": "Ojalá que ella esté cerca.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Ojalá", "id": 156, "gloss": "hopefully" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "ella", "id": 1007, "gloss": "she" },
+  { "t": "esté", "id": 17, "gloss": "is", "form": "estar · present subjunctive · ella" },
+  { "t": "cerca", "id": 952, "gloss": "nearby" }
+] },
+{ "id": "s1000-029", "en": "When you arrive early, call me.", "es": "Cuando llegues temprano, llámame.", "alt": ["Cuando llegue usted temprano, llámeme."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Cuando", "id": 38, "gloss": "when" },
+  { "t": "llegues", "id": 59, "gloss": "you arrive", "form": "llegar · present subjunctive · tú" },
+  { "t": "temprano", "id": 950, "gloss": "early" },
+  { "t": "llámame", "id": 114, "gloss": "call me!", "form": "llamar · imperative · tú (informal) + me" }
+] },
+{ "id": "s1000-030", "en": "When you have available time, help me. (formal)", "es": "Cuando tenga tiempo disponible, ayúdeme.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Cuando", "id": 38, "gloss": "when" },
+  { "t": "tenga", "id": 18, "gloss": "you have", "form": "tener · present subjunctive · usted" },
+  { "t": "tiempo", "id": 77, "gloss": "time" },
+  { "t": "disponible", "id": 997, "gloss": "available" },
+  { "t": "ayúdeme", "id": 184, "gloss": "help me!", "form": "ayudar · imperative · usted (formal) + me" }
+] },
+{ "id": "s1000-031", "en": "When we finish, we will celebrate soon.", "es": "Cuando terminemos, celebraremos pronto.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Cuando", "id": 38, "gloss": "when" },
+  { "t": "terminemos", "id": 139, "gloss": "we finish", "form": "terminar · present subjunctive · nosotros" },
+  { "t": "celebraremos", "id": 321, "gloss": "we will celebrate", "form": "celebrar · future · nosotros" },
+  { "t": "pronto", "id": 949, "gloss": "soon" }
+] },
+{ "id": "s1000-032", "en": "When you know the truth, you will really understand.", "es": "Cuando sepas la verdad, entenderás realmente.", "alt": ["Cuando sepa usted la verdad, entenderá realmente."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Cuando", "id": 38, "gloss": "when" },
+  { "t": "sepas", "id": 43, "gloss": "you know", "form": "saber · present subjunctive · tú" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "verdad", "id": 727, "gloss": "truth" },
+  { "t": "entenderás", "id": 136, "gloss": "you will understand", "form": "entender · future · tú" },
+  { "t": "realmente", "id": 945, "gloss": "really" }
+] },
+{ "id": "s1000-033", "en": "When she is nearby, she will call him.", "es": "Cuando ella esté cerca, lo llamará.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Cuando", "id": 38, "gloss": "when" },
+  { "t": "ella", "id": 1007, "gloss": "she" },
+  { "t": "esté", "id": 17, "gloss": "is", "form": "estar · present subjunctive · ella" },
+  { "t": "cerca", "id": 952, "gloss": "nearby" },
+  { "t": "lo", "id": 20, "gloss": "him" },
+  { "t": "llamará", "id": 114, "gloss": "will call", "form": "llamar · future · ella" }
+] },
+{ "id": "s1000-034", "en": "When they finish, they will go out together.", "es": "Cuando terminen, saldrán juntos.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Cuando", "id": 38, "gloss": "when" },
+  { "t": "terminen", "id": 139, "gloss": "they finish", "form": "terminar · present subjunctive · ellos" },
+  { "t": "saldrán", "id": 117, "gloss": "they will go out", "form": "salir · future · ellos" },
+  { "t": "juntos", "id": 962, "gloss": "together", "form": "junto · plural" }
+] },
+{ "id": "s1000-035", "en": "When you study every day, you will understand everything.", "es": "Cuando estudies a diario, entenderás todo.", "alt": ["Cuando estudie usted a diario, entenderá todo."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Cuando", "id": 38, "gloss": "when" },
+  { "t": "estudies", "id": 177, "gloss": "you study", "form": "estudiar · present subjunctive · tú" },
+  { "t": "a", "id": 5, "gloss": "(idiom)" },
+  { "t": "diario", "id": 989, "gloss": "daily" },
+  { "t": "entenderás", "id": 136, "gloss": "you will understand", "form": "entender · future · tú" },
+  { "t": "todo", "id": 21, "gloss": "everything" }
+] },
+{ "id": "s1000-036", "en": "I will explain the physical plan so that you understand.", "es": "Explicaré el plan físico para que entiendas.", "alt": ["Explicaré el plan físico para que usted entienda."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Explicaré", "id": 173, "gloss": "I will explain", "form": "explicar · future · yo" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "físico", "id": 920, "gloss": "physical" },
+  { "t": "para", "id": 15, "gloss": "so" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "entiendas", "id": 136, "gloss": "you understand", "form": "entender · present subjunctive · tú" }
+] },
+{ "id": "s1000-037", "en": "We will work so that the social plan works.", "es": "Trabajaremos para que el plan social sirva.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Trabajaremos", "id": 131, "gloss": "we will work", "form": "trabajar · future · nosotros" },
+  { "t": "para", "id": 15, "gloss": "so" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "social", "id": 902, "gloss": "social" },
+  { "t": "sirva", "id": 144, "gloss": "works", "form": "servir · present subjunctive · él" }
+] },
+{ "id": "s1000-038", "en": "He will explain the general plan so that everyone understands.", "es": "Él explicará el plan general para que todos entiendan.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Él", "id": 80, "gloss": "he" },
+  { "t": "explicará", "id": 173, "gloss": "will explain", "form": "explicar · future · él" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "general", "id": 911, "gloss": "general" },
+  { "t": "para", "id": 15, "gloss": "so" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "todos", "id": 21, "gloss": "everyone", "form": "todo · plural" },
+  { "t": "entiendan", "id": 136, "gloss": "understand", "form": "entender · present subjunctive · ellos" }
+] },
+{ "id": "s1000-039", "en": "I will buy a personal computer so that you can work.", "es": "Compraré una computadora personal para que puedas trabajar.", "alt": ["Compraré una computadora personal para que usted pueda trabajar."], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Compraré", "id": 216, "gloss": "I will buy", "form": "comprar · future · yo" },
+  { "t": "una", "id": 7, "gloss": "a", "form": "un · feminine" },
+  { "t": "computadora", "id": 524, "gloss": "computer" },
+  { "t": "personal", "id": 901, "gloss": "personal" },
+  { "t": "para", "id": 15, "gloss": "so" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "puedas", "id": 26, "gloss": "you can", "form": "poder · present subjunctive · tú" },
+  { "t": "trabajar", "id": 131, "gloss": "work" }
+] },
+{ "id": "s1000-040", "en": "We will invite the whole world so that the party is worldwide.", "es": "Invitaremos a todo el mundo para que la fiesta sea mundial.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Invitaremos", "id": 227, "gloss": "we will invite", "form": "invitar · future · nosotros" },
+  { "t": "a", "id": 5, "gloss": "(personal a)" },
+  { "t": "todo", "id": 21, "gloss": "all" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "mundo", "id": 384, "gloss": "world" },
+  { "t": "para", "id": 15, "gloss": "so" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "fiesta", "id": 531, "gloss": "party" },
+  { "t": "sea", "id": 8, "gloss": "is", "form": "ser · present subjunctive · ella" },
+  { "t": "mundial", "id": 918, "gloss": "worldwide" }
+] },
+{ "id": "s1000-041", "en": "I will leave early so that I'm not late.", "es": "Saldré temprano para que no llegue tarde.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Saldré", "id": 117, "gloss": "I will leave", "form": "salir · future · yo" },
+  { "t": "temprano", "id": 950, "gloss": "early" },
+  { "t": "para", "id": 15, "gloss": "so" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "no", "id": 10, "gloss": "not" },
+  { "t": "llegue", "id": 59, "gloss": "I arrive", "form": "llegar · present subjunctive · yo" },
+  { "t": "tarde", "id": 539, "gloss": "late" }
+] },
+{ "id": "s1000-042", "en": "He will keep the unique book so that it isn't lost.", "es": "Guardará el libro único para que no se pierda.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "Guardará", "id": 283, "gloss": "he will keep", "form": "guardar · future · él" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "libro", "id": 425, "gloss": "book" },
+  { "t": "único", "id": 988, "gloss": "unique" },
+  { "t": "para", "id": 15, "gloss": "so" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "no", "id": 10, "gloss": "not" },
+  { "t": "se", "id": 9, "gloss": "itself" },
+  { "t": "pierda", "id": 133, "gloss": "is lost", "form": "perder · present subjunctive · él" }
+] },
+{ "id": "s1000-043", "en": "I don't think both plans are good.", "es": "No creo que ambos planes sean buenos.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "No", "id": 10, "gloss": "not" },
+  { "t": "creo", "id": 112, "gloss": "I think", "form": "creer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "ambos", "id": 982, "gloss": "both" },
+  { "t": "planes", "id": 506, "gloss": "plans", "form": "plan · plural" },
+  { "t": "sean", "id": 8, "gloss": "are", "form": "ser · present subjunctive · ellos" },
+  { "t": "buenos", "id": 101, "gloss": "good", "form": "bueno · plural" }
+] },
+{ "id": "s1000-044", "en": "I don't think the job is complete.", "es": "No creo que el trabajo esté completo.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "No", "id": 10, "gloss": "not" },
+  { "t": "creo", "id": 112, "gloss": "I think", "form": "creer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "trabajo", "id": 402, "gloss": "job" },
+  { "t": "esté", "id": 17, "gloss": "is", "form": "estar · present subjunctive · él" },
+  { "t": "completo", "id": 930, "gloss": "complete" }
+] },
+{ "id": "s1000-045", "en": "I don't think anyone knows the truth.", "es": "No creo que alguien sepa la verdad.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "No", "id": 10, "gloss": "not" },
+  { "t": "creo", "id": 112, "gloss": "I think", "form": "creer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "alguien", "id": 978, "gloss": "anyone" },
+  { "t": "sepa", "id": 43, "gloss": "knows", "form": "saber · present subjunctive · él" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "verdad", "id": 727, "gloss": "truth" }
+] },
+{ "id": "s1000-046", "en": "I don't think it's a real problem.", "es": "No creo que sea un problema real.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "No", "id": 10, "gloss": "not" },
+  { "t": "creo", "id": 112, "gloss": "I think", "form": "creer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "sea", "id": 8, "gloss": "is", "form": "ser · present subjunctive · él" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "problema", "id": 482, "gloss": "problem" },
+  { "t": "real", "id": 906, "gloss": "real" }
+] },
+{ "id": "s1000-047", "en": "I don't think the result is negative.", "es": "No creo que el resultado sea negativo.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "No", "id": 10, "gloss": "not" },
+  { "t": "creo", "id": 112, "gloss": "I think", "form": "creer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "resultado", "id": 487, "gloss": "result" },
+  { "t": "sea", "id": 8, "gloss": "is", "form": "ser · present subjunctive · él" },
+  { "t": "negativo", "id": 910, "gloss": "negative" }
+] },
+{ "id": "s1000-048", "en": "I don't think the news is false.", "es": "No creo que la noticia sea falsa.", "alt": [], "stage": 7, "grammar": "subjunctive", "tokens": [
+  { "t": "No", "id": 10, "gloss": "not" },
+  { "t": "creo", "id": 112, "gloss": "I think", "form": "creer · present · yo" },
+  { "t": "que", "id": 3, "gloss": "that" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "noticia", "id": 518, "gloss": "news" },
+  { "t": "sea", "id": 8, "gloss": "is", "form": "ser · present subjunctive · ella" },
+  { "t": "falsa", "id": 908, "gloss": "false", "form": "falso · feminine" }
+] },
+{ "id": "s1000-049", "en": "Be strong, always.", "es": "Sé fuerte siempre.", "alt": ["Sea fuerte siempre."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Sé", "id": 8, "gloss": "be!", "form": "ser · imperative · tú (informal)" },
+  { "t": "fuerte", "id": 926, "gloss": "strong" },
+  { "t": "siempre", "id": 93, "gloss": "always" }
+] },
+{ "id": "s1000-050", "en": "Don't be so weak. (formal)", "es": "No sea usted tan débil.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "sea", "id": 8, "gloss": "be!", "form": "ser · present subjunctive · usted" },
+  { "t": "usted", "id": 84, "gloss": "you (formal)" },
+  { "t": "tan", "id": 71, "gloss": "so", "form": "tanto · apocope" },
+  { "t": "débil", "id": 927, "gloss": "weak" }
+] },
+{ "id": "s1000-051", "en": "Walk slowly around here.", "es": "Anda despacio por aquí.", "alt": ["Ande despacio por aquí."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Anda", "id": 222, "gloss": "walk!", "form": "andar · imperative · tú (informal)" },
+  { "t": "despacio", "id": 963, "gloss": "slowly" },
+  { "t": "por", "id": 12, "gloss": "around" },
+  { "t": "aquí", "id": 89, "gloss": "here" }
+] },
+{ "id": "s1000-052", "en": "Don't walk so fast. (formal)", "es": "No ande tan rápido.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "ande", "id": 222, "gloss": "walk!", "form": "andar · present subjunctive · usted" },
+  { "t": "tan", "id": 71, "gloss": "so", "form": "tanto · apocope" },
+  { "t": "rápido", "id": 928, "gloss": "fast" }
+] },
+{ "id": "s1000-053", "en": "Finish the entire job.", "es": "Termina el trabajo entero.", "alt": ["Termine el trabajo entero."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Termina", "id": 139, "gloss": "finish!", "form": "terminar · imperative · tú (informal)" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "trabajo", "id": 402, "gloss": "job" },
+  { "t": "entero", "id": 931, "gloss": "entire" }
+] },
+{ "id": "s1000-054", "en": "Don't use the total amount of money. (formal)", "es": "No use el dinero total.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "use", "id": 193, "gloss": "use!", "form": "usar · present subjunctive · usted" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "dinero", "id": 453, "gloss": "money" },
+  { "t": "total", "id": 932, "gloss": "total" }
+] },
+{ "id": "s1000-055", "en": "Stay busy. (formal)", "es": "Quédese ocupado.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Quédese", "id": 63, "gloss": "stay!", "form": "quedar · imperative · usted (formal) + se" },
+  { "t": "ocupado", "id": 933, "gloss": "busy" }
+] },
+{ "id": "s1000-056", "en": "Don't stay too busy. (formal)", "es": "No se quede demasiado ocupado.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "se", "id": 9, "gloss": "yourself" },
+  { "t": "quede", "id": 63, "gloss": "stay!", "form": "quedar · present subjunctive · usted" },
+  { "t": "demasiado", "id": 935, "gloss": "too" },
+  { "t": "ocupado", "id": 933, "gloss": "busy" }
+] },
+{ "id": "s1000-057", "en": "Repeat it slowly, one more time.", "es": "Repítelo despacio, otra vez.", "alt": ["Repítalo despacio, otra vez."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Repítelo", "id": 195, "gloss": "repeat it!", "form": "repetir · imperative · tú (informal) + lo" },
+  { "t": "despacio", "id": 963, "gloss": "slowly" },
+  { "t": "otra", "id": 30, "gloss": "another", "form": "otro · feminine" },
+  { "t": "vez", "id": 41, "gloss": "time" }
+] },
+{ "id": "s1000-058", "en": "Don't repeat it so fast. (formal)", "es": "No lo repita tan rápido.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "lo", "id": 20, "gloss": "it" },
+  { "t": "repita", "id": 195, "gloss": "repeat!", "form": "repetir · present subjunctive · usted" },
+  { "t": "tan", "id": 71, "gloss": "so", "form": "tanto · apocope" },
+  { "t": "rápido", "id": 928, "gloss": "fast" }
+] },
+{ "id": "s1000-059", "en": "Go forward.", "es": "Ve hacia adelante.", "alt": ["Vaya hacia adelante."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Ve", "id": 29, "gloss": "go!", "form": "ir · imperative · tú (informal)" },
+  { "t": "hacia", "id": 970, "gloss": "toward" },
+  { "t": "adelante", "id": 955, "gloss": "forward" }
+] },
+{ "id": "s1000-060", "en": "Don't go backward. (formal)", "es": "No vaya hacia atrás.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "vaya", "id": 29, "gloss": "go!", "form": "ir · present subjunctive · usted" },
+  { "t": "hacia", "id": 970, "gloss": "toward" },
+  { "t": "atrás", "id": 956, "gloss": "backward" }
+] },
+{ "id": "s1000-061", "en": "Put it inside, over here.", "es": "Ponlo dentro, por aquí.", "alt": ["Póngalo dentro, por aquí."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Ponlo", "id": 53, "gloss": "put it!", "form": "poner · imperative · tú (informal) + lo" },
+  { "t": "dentro", "id": 957, "gloss": "inside" },
+  { "t": "por", "id": 12, "gloss": "over" },
+  { "t": "aquí", "id": 89, "gloss": "here" }
+] },
+{ "id": "s1000-062", "en": "Don't put it outside. (formal)", "es": "No lo ponga fuera.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "lo", "id": 20, "gloss": "it" },
+  { "t": "ponga", "id": 53, "gloss": "put!", "form": "poner · present subjunctive · usted" },
+  { "t": "fuera", "id": 958, "gloss": "outside" }
+] },
+{ "id": "s1000-063", "en": "Look up.", "es": "Mira hacia arriba.", "alt": ["Mire hacia arriba."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Mira", "id": 124, "gloss": "look!", "form": "mirar · imperative · tú (informal)" },
+  { "t": "hacia", "id": 970, "gloss": "toward" },
+  { "t": "arriba", "id": 953, "gloss": "up" }
+] },
+{ "id": "s1000-064", "en": "Don't look down. (formal)", "es": "No mire hacia abajo.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "mire", "id": 124, "gloss": "look!", "form": "mirar · present subjunctive · usted" },
+  { "t": "hacia", "id": 970, "gloss": "toward" },
+  { "t": "abajo", "id": 954, "gloss": "down" }
+] },
+{ "id": "s1000-065", "en": "Choose the available plan.", "es": "Elige el plan disponible.", "alt": ["Elija el plan disponible."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Elige", "id": 261, "gloss": "choose!", "form": "elegir · imperative · tú (informal)" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "disponible", "id": 997, "gloss": "available" }
+] },
+{ "id": "s1000-066", "en": "Don't choose just any plan. (formal)", "es": "No elija cualquier plan.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "elija", "id": 261, "gloss": "choose!", "form": "elegir · present subjunctive · usted" },
+  { "t": "cualquier", "id": 981, "gloss": "any", "form": "cualquiera · apocope" },
+  { "t": "plan", "id": 506, "gloss": "plan" }
+] },
+{ "id": "s1000-067", "en": "Ask the boss himself.", "es": "Pregúntale al propio jefe.", "alt": ["Pregúntele al propio jefe."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Pregúntale", "id": 174, "gloss": "ask him!", "form": "preguntar · imperative · tú (informal) + le" },
+  { "t": "al", "id": 5, "gloss": "to the" },
+  { "t": "propio", "id": 987, "gloss": "himself" },
+  { "t": "jefe", "id": 695, "gloss": "boss" }
+] },
+{ "id": "s1000-068", "en": "Don't ask just anyone. (formal)", "es": "No le pregunte a cualquiera.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "le", "id": 19, "gloss": "him" },
+  { "t": "pregunte", "id": 174, "gloss": "ask!", "form": "preguntar · present subjunctive · usted" },
+  { "t": "a", "id": 5, "gloss": "to" },
+  { "t": "cualquiera", "id": 981, "gloss": "anyone" }
+] },
+{ "id": "s1000-069", "en": "The street is very narrow.", "es": "La calle es muy estrecha.", "alt": [], "stage": 1, "grammar": "present", "tokens": [
+  { "t": "La", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "calle", "id": 428, "gloss": "street" },
+  { "t": "es", "id": 8, "gloss": "is", "form": "ser · present · ella" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "estrecha", "id": 923, "gloss": "narrow", "form": "estrecho · feminine" }
+] },
+{ "id": "s1000-070", "en": "He finally understood the rule.", "es": "Él finalmente entendió la regla.", "alt": [], "stage": 3, "grammar": "preterite", "tokens": [
+  { "t": "Él", "id": 80, "gloss": "he" },
+  { "t": "finalmente", "id": 948, "gloss": "finally" },
+  { "t": "entendió", "id": 136, "gloss": "understood", "form": "entender · preterite · él" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "regla", "id": 755, "gloss": "rule" }
+] },
+{ "id": "s1000-071", "en": "We normally worked a lot.", "es": "Normalmente trabajábamos mucho.", "alt": [], "stage": 4, "grammar": "imperfect", "tokens": [
+  { "t": "Normalmente", "id": 947, "gloss": "normally" },
+  { "t": "trabajábamos", "id": 131, "gloss": "we used to work", "form": "trabajar · imperfect · nosotros" },
+  { "t": "mucho", "id": 42, "gloss": "a lot" }
+] },
+{ "id": "s1000-072", "en": "I have almost finished the book.", "es": "Casi he terminado el libro.", "alt": [], "stage": 5, "grammar": "perfect", "tokens": [
+  { "t": "Casi", "id": 937, "gloss": "almost" },
+  { "t": "he", "id": 11, "gloss": "have", "form": "haber · present · yo" },
+  { "t": "terminado", "id": 139, "gloss": "finished", "form": "terminar · past participle" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "libro", "id": 425, "gloss": "book" }
+] },
+{ "id": "s1000-073", "en": "Is the door wide or narrow?", "es": "¿Es ancha o estrecha la puerta?", "alt": [], "stage": 1, "grammar": "present", "tokens": [
+  { "t": "Es", "id": 8, "gloss": "is", "form": "ser · present · ella" },
+  { "t": "ancha", "id": 922, "gloss": "wide", "form": "ancho · feminine" },
+  { "t": "o", "id": 25, "gloss": "or" },
+  { "t": "estrecha", "id": 923, "gloss": "narrow", "form": "estrecho · feminine" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "puerta", "id": 420, "gloss": "door" }
+] },
+{ "id": "s1000-074", "en": "They didn't call, and they didn't come either.", "es": "Ellos no llamaron, tampoco vinieron.", "alt": [], "stage": 3, "grammar": "preterite", "tokens": [
+  { "t": "Ellos", "id": 83, "gloss": "they" },
+  { "t": "no", "id": 10, "gloss": "not" },
+  { "t": "llamaron", "id": 114, "gloss": "called", "form": "llamar · preterite · ellos" },
+  { "t": "tampoco", "id": 942, "gloss": "neither" },
+  { "t": "vinieron", "id": 115, "gloss": "came", "form": "venir · preterite · ellos" }
+] },
+{ "id": "s1000-075", "en": "He used to live far, near the mountain.", "es": "Él vivía lejos, cerca de la montaña.", "alt": [], "stage": 4, "grammar": "imperfect", "tokens": [
+  { "t": "Él", "id": 80, "gloss": "he" },
+  { "t": "vivía", "id": 121, "gloss": "used to live", "form": "vivir · imperfect · él" },
+  { "t": "lejos", "id": 951, "gloss": "far" },
+  { "t": "cerca", "id": 952, "gloss": "near" },
+  { "t": "de", "id": 1, "gloss": "of" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "montaña", "id": 436, "gloss": "mountain" }
+] },
+{ "id": "s1000-076", "en": "Maybe he is right.", "es": "Quizás él tiene razón.", "alt": [], "stage": 1, "grammar": "present", "tokens": [
+  { "t": "Quizás", "id": 943, "gloss": "maybe" },
+  { "t": "él", "id": 80, "gloss": "he" },
+  { "t": "tiene", "id": 18, "gloss": "has", "form": "tener · present · él" },
+  { "t": "razón", "id": 484, "gloss": "right" }
+] },
+{ "id": "s1000-077", "en": "Have you seen anyone here?", "es": "¿Has visto a alguien aquí?", "alt": ["¿Ha visto usted a alguien aquí?"], "stage": 5, "grammar": "perfect", "tokens": [
+  { "t": "Has", "id": 11, "gloss": "have", "form": "haber · present · tú" },
+  { "t": "visto", "id": 35, "gloss": "seen", "form": "ver · past participle" },
+  { "t": "a", "id": 5, "gloss": "(personal a)" },
+  { "t": "alguien", "id": 978, "gloss": "anyone" },
+  { "t": "aquí", "id": 89, "gloss": "here" }
+] },
+{ "id": "s1000-078", "en": "The economic plan changed a lot.", "es": "El plan económico cambió mucho.", "alt": [], "stage": 3, "grammar": "preterite", "tokens": [
+  { "t": "El", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "económico", "id": 904, "gloss": "economic" },
+  { "t": "cambió", "id": 159, "gloss": "changed", "form": "cambiar · preterite · él" },
+  { "t": "mucho", "id": 42, "gloss": "a lot" }
+] },
+{ "id": "s1000-079", "en": "Almost no one arrived on time.", "es": "Casi nadie llegó a tiempo.", "alt": [], "stage": 3, "grammar": "preterite", "tokens": [
+  { "t": "Casi", "id": 937, "gloss": "almost" },
+  { "t": "nadie", "id": 979, "gloss": "no one" },
+  { "t": "llegó", "id": 59, "gloss": "arrived", "form": "llegar · preterite · él" },
+  { "t": "a", "id": 5, "gloss": "on" },
+  { "t": "tiempo", "id": 77, "gloss": "time" }
+] },
+{ "id": "s1000-080", "en": "The current plan is quite good.", "es": "El plan actual es bastante bueno.", "alt": [], "stage": 1, "grammar": "present", "tokens": [
+  { "t": "El", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "actual", "id": 993, "gloss": "current" },
+  { "t": "es", "id": 8, "gloss": "is", "form": "ser · present · él" },
+  { "t": "bastante", "id": 936, "gloss": "quite" },
+  { "t": "bueno", "id": 101, "gloss": "good" }
+] }
+]

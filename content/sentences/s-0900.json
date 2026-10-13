@@ -1,0 +1,605 @@
+[
+{ "id": "s0900-001", "en": "I will be very tired tomorrow.", "es": "Mañana estaré muy cansado.", "alt": ["Estaré muy cansado mañana."], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Mañana", "id": 538, "gloss": "tomorrow" },
+  { "t": "estaré", "id": 17, "gloss": "I will be", "form": "estar · future · yo" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "cansado", "id": 867, "gloss": "tired" }
+] },
+{ "id": "s0900-002", "en": "Will you be free tomorrow?", "es": "¿Estarás libre mañana?", "alt": ["¿Estará usted libre mañana?"], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Estarás", "id": 17, "gloss": "will you be", "form": "estar · future · tú" },
+  { "t": "libre", "id": 844, "gloss": "free" },
+  { "t": "mañana", "id": 538, "gloss": "tomorrow" }
+] },
+{ "id": "s0900-003", "en": "She will be twenty years old.", "es": "Ella tendrá veinte años.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Ella", "id": 1007, "gloss": "she" },
+  { "t": "tendrá", "id": 18, "gloss": "she will have", "form": "tener · future · ella" },
+  { "t": "veinte", "id": 814, "gloss": "twenty" },
+  { "t": "años", "id": 54, "gloss": "years", "form": "año · plural" }
+] },
+{ "id": "s0900-004", "en": "The red car will be very expensive.", "es": "El coche rojo será muy caro.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "El", "id": 2, "gloss": "the" },
+  { "t": "coche", "id": 427, "gloss": "car" },
+  { "t": "rojo", "id": 830, "gloss": "red" },
+  { "t": "será", "id": 8, "gloss": "will be", "form": "ser · future · él" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "caro", "id": 883, "gloss": "expensive" }
+] },
+{ "id": "s0900-005", "en": "We will buy a modern house.", "es": "Compraremos una casa moderna.", "alt": ["Nosotros compraremos una casa moderna."], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Compraremos", "id": 216, "gloss": "we will buy", "form": "comprar · future · nosotros" },
+  { "t": "una", "id": 7, "gloss": "a", "form": "un · feminine" },
+  { "t": "casa", "id": 377, "gloss": "house" },
+  { "t": "moderna", "id": 896, "gloss": "modern", "form": "moderno · feminine" }
+] },
+{ "id": "s0900-006", "en": "They won't arrive on time, that's certain.", "es": "No llegarán a tiempo, es cierto.", "alt": ["Ellos no llegarán a tiempo, es cierto."], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "No", "id": 10, "gloss": "not" },
+  { "t": "llegarán", "id": 59, "gloss": "they will arrive", "form": "llegar · future · ellos" },
+  { "t": "a", "id": 5, "gloss": "on" },
+  { "t": "tiempo", "id": 77, "gloss": "time" },
+  { "t": "es", "id": 8, "gloss": "is", "form": "ser · present · él" },
+  { "t": "cierto", "id": 859, "gloss": "certain" }
+] },
+{ "id": "s0900-007", "en": "I would buy the blue car.", "es": "Yo compraría el coche azul.", "alt": ["Compraría el coche azul."], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Yo", "id": 79, "gloss": "I" },
+  { "t": "compraría", "id": 216, "gloss": "would buy", "form": "comprar · conditional · yo" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "coche", "id": 427, "gloss": "car" },
+  { "t": "azul", "id": 831, "gloss": "blue" }
+] },
+{ "id": "s0900-008", "en": "In ten years, I will live in another country.", "es": "En diez años, viviré en otro país.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "En", "id": 6, "gloss": "in" },
+  { "t": "diez", "id": 804, "gloss": "ten" },
+  { "t": "años", "id": 54, "gloss": "years", "form": "año · plural" },
+  { "t": "viviré", "id": 121, "gloss": "I will live", "form": "vivir · future · yo" },
+  { "t": "en", "id": 6, "gloss": "in" },
+  { "t": "otro", "id": 30, "gloss": "another" },
+  { "t": "país", "id": 380, "gloss": "country" }
+] },
+{ "id": "s0900-009", "en": "He will tell the important truth tomorrow.", "es": "Él dirá la verdad importante mañana.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Él", "id": 80, "gloss": "he" },
+  { "t": "dirá", "id": 27, "gloss": "will tell", "form": "decir · future · él" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "verdad", "id": 727, "gloss": "truth" },
+  { "t": "importante", "id": 853, "gloss": "important" },
+  { "t": "mañana", "id": 538, "gloss": "tomorrow" }
+] },
+{ "id": "s0900-010", "en": "Could you help me with something important? (formal)", "es": "¿Podría usted ayudarme con algo importante?", "alt": [], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Podría", "id": 26, "gloss": "could", "form": "poder · conditional · usted" },
+  { "t": "usted", "id": 84, "gloss": "you (formal)" },
+  { "t": "ayudarme", "id": 184, "gloss": "help me", "form": "ayudar · infinitive + me" },
+  { "t": "con", "id": 13, "gloss": "with" },
+  { "t": "algo", "id": 980, "gloss": "something" },
+  { "t": "importante", "id": 853, "gloss": "important" }
+] },
+{ "id": "s0900-011", "en": "We would live on a quiet beach.", "es": "Nosotros viviríamos en una playa tranquila.", "alt": ["Viviríamos en una playa tranquila."], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Nosotros", "id": 81, "gloss": "we" },
+  { "t": "viviríamos", "id": 121, "gloss": "we would live", "form": "vivir · conditional · nosotros" },
+  { "t": "en", "id": 6, "gloss": "on" },
+  { "t": "una", "id": 7, "gloss": "a", "form": "un · feminine" },
+  { "t": "playa", "id": 611, "gloss": "beach" },
+  { "t": "tranquila", "id": 869, "gloss": "quiet", "form": "tranquilo · feminine" }
+] },
+{ "id": "s0900-012", "en": "They would never be free tomorrow.", "es": "Ellos nunca estarían libres mañana.", "alt": [], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Ellos", "id": 83, "gloss": "they" },
+  { "t": "nunca", "id": 94, "gloss": "never" },
+  { "t": "estarían", "id": 17, "gloss": "they would be", "form": "estar · conditional · ellos" },
+  { "t": "libres", "id": 844, "gloss": "free", "form": "libre · plural" },
+  { "t": "mañana", "id": 538, "gloss": "tomorrow" }
+] },
+{ "id": "s0900-013", "en": "I will tell the important secret to my brother.", "es": "Le diré el secreto importante a mi hermano.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Le", "id": 19, "gloss": "to him" },
+  { "t": "diré", "id": 27, "gloss": "I will tell", "form": "decir · future · yo" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "secreto", "id": 725, "gloss": "secret" },
+  { "t": "importante", "id": 853, "gloss": "important" },
+  { "t": "a", "id": 5, "gloss": "to" },
+  { "t": "mi", "id": 46, "gloss": "my" },
+  { "t": "hermano", "id": 391, "gloss": "brother" }
+] },
+{ "id": "s0900-014", "en": "Will you come to the special party tonight?", "es": "¿Vendrás a la fiesta especial esta noche?", "alt": ["¿Vendrá usted a la fiesta especial esta noche?"], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Vendrás", "id": 115, "gloss": "will you come", "form": "venir · future · tú" },
+  { "t": "a", "id": 5, "gloss": "to" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "fiesta", "id": 531, "gloss": "party" },
+  { "t": "especial", "id": 891, "gloss": "special" },
+  { "t": "esta", "id": 28, "gloss": "this", "form": "este · feminine" },
+  { "t": "noche", "id": 540, "gloss": "night" }
+] },
+{ "id": "s0900-015", "en": "The price of the house will be very expensive.", "es": "El precio de la casa será muy caro.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "El", "id": 2, "gloss": "the" },
+  { "t": "precio", "id": 454, "gloss": "price" },
+  { "t": "de", "id": 1, "gloss": "of" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "casa", "id": 377, "gloss": "house" },
+  { "t": "será", "id": 8, "gloss": "will be", "form": "ser · future · él" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "caro", "id": 883, "gloss": "expensive" }
+] },
+{ "id": "s0900-016", "en": "Will the food be good and cheap?", "es": "¿Será buena y barata la comida?", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Será", "id": 8, "gloss": "will be", "form": "ser · future · ella" },
+  { "t": "buena", "id": 101, "gloss": "good", "form": "bueno · feminine" },
+  { "t": "y", "id": 4, "gloss": "and" },
+  { "t": "barata", "id": 884, "gloss": "cheap", "form": "barato · feminine" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "comida", "id": 444, "gloss": "food" }
+] },
+{ "id": "s0900-017", "en": "Next year will be difficult.", "es": "El próximo año será difícil.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "El", "id": 2, "gloss": "the" },
+  { "t": "próximo", "id": 994, "gloss": "next" },
+  { "t": "año", "id": 54, "gloss": "year" },
+  { "t": "será", "id": 8, "gloss": "will be", "form": "ser · future · él" },
+  { "t": "difícil", "id": 852, "gloss": "difficult" }
+] },
+{ "id": "s0900-018", "en": "Will you find the easy solution someday?", "es": "¿Encontrarás la solución fácil algún día?", "alt": ["¿Encontrará usted la solución fácil algún día?"], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Encontrarás", "id": 113, "gloss": "will you find", "form": "encontrar · future · tú" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "solución", "id": 483, "gloss": "solution" },
+  { "t": "fácil", "id": 851, "gloss": "easy" },
+  { "t": "algún", "id": 96, "gloss": "some", "form": "alguno · apocope" },
+  { "t": "día", "id": 76, "gloss": "day" }
+] },
+{ "id": "s0900-019", "en": "I won't be able to help him, it's very difficult.", "es": "Yo no lo podré ayudar, es muy difícil.", "alt": ["No lo podré ayudar, es muy difícil."], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Yo", "id": 79, "gloss": "I" },
+  { "t": "no", "id": 10, "gloss": "not" },
+  { "t": "lo", "id": 20, "gloss": "him" },
+  { "t": "podré", "id": 26, "gloss": "I will be able", "form": "poder · future · yo" },
+  { "t": "ayudar", "id": 184, "gloss": "to help" },
+  { "t": "es", "id": 8, "gloss": "is", "form": "ser · present · él" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "difícil", "id": 852, "gloss": "difficult" }
+] },
+{ "id": "s0900-020", "en": "Would you like to live in a free country?", "es": "¿Querrías vivir en un país libre?", "alt": ["¿Querría usted vivir en un país libre?"], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Querrías", "id": 51, "gloss": "would you like", "form": "querer · conditional · tú" },
+  { "t": "vivir", "id": 121, "gloss": "to live" },
+  { "t": "en", "id": 6, "gloss": "in" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "país", "id": 380, "gloss": "country" },
+  { "t": "libre", "id": 844, "gloss": "free" }
+] },
+{ "id": "s0900-021", "en": "I would be much happier here.", "es": "Yo sería mucho más feliz aquí.", "alt": ["Sería mucho más feliz aquí."], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Yo", "id": 79, "gloss": "I" },
+  { "t": "sería", "id": 8, "gloss": "would be", "form": "ser · conditional · yo" },
+  { "t": "mucho", "id": 42, "gloss": "much" },
+  { "t": "más", "id": 23, "gloss": "more" },
+  { "t": "feliz", "id": 863, "gloss": "happy" },
+  { "t": "aquí", "id": 89, "gloss": "here" }
+] },
+{ "id": "s0900-022", "en": "Would they be happy here?", "es": "¿Estarían ellos contentos aquí?", "alt": [], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Estarían", "id": 17, "gloss": "would they be", "form": "estar · conditional · ellos" },
+  { "t": "ellos", "id": 83, "gloss": "they" },
+  { "t": "contentos", "id": 865, "gloss": "happy", "form": "contento · plural" },
+  { "t": "aquí", "id": 89, "gloss": "here" }
+] },
+{ "id": "s0900-023", "en": "The water will be very hot.", "es": "El agua estará muy caliente.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "El", "id": 2, "gloss": "the" },
+  { "t": "agua", "id": 378, "gloss": "water" },
+  { "t": "estará", "id": 17, "gloss": "will be", "form": "estar · future · ella" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "caliente", "id": 862, "gloss": "hot" }
+] },
+{ "id": "s0900-024", "en": "They will find an easy solution.", "es": "Ellos encontrarán una solución fácil.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Ellos", "id": 83, "gloss": "they" },
+  { "t": "encontrarán", "id": 113, "gloss": "will find", "form": "encontrar · future · ellos" },
+  { "t": "una", "id": 7, "gloss": "a", "form": "un · feminine" },
+  { "t": "solución", "id": 483, "gloss": "solution" },
+  { "t": "fácil", "id": 851, "gloss": "easy" }
+] },
+{ "id": "s0900-025", "en": "I would change to a more important job.", "es": "Yo cambiaría a un trabajo más importante.", "alt": ["Cambiaría a un trabajo más importante."], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Yo", "id": 79, "gloss": "I" },
+  { "t": "cambiaría", "id": 159, "gloss": "would change", "form": "cambiar · conditional · yo" },
+  { "t": "a", "id": 5, "gloss": "to" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "trabajo", "id": 402, "gloss": "job" },
+  { "t": "más", "id": 23, "gloss": "more" },
+  { "t": "importante", "id": 853, "gloss": "important" }
+] },
+{ "id": "s0900-026", "en": "What would his generous boss think?", "es": "¿Qué pensaría su jefe generoso?", "alt": [], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Qué", "id": 44, "gloss": "what" },
+  { "t": "pensaría", "id": 116, "gloss": "would think", "form": "pensar · conditional · él" },
+  { "t": "su", "id": 14, "gloss": "his" },
+  { "t": "jefe", "id": 695, "gloss": "boss" },
+  { "t": "generoso", "id": 872, "gloss": "generous" }
+] },
+{ "id": "s0900-027", "en": "There won't be clean water.", "es": "No habrá agua limpia.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "No", "id": 10, "gloss": "not" },
+  { "t": "habrá", "id": 11, "gloss": "there will be", "form": "haber · future · impersonal" },
+  { "t": "agua", "id": 378, "gloss": "water" },
+  { "t": "limpia", "id": 860, "gloss": "clean", "form": "limpio · feminine" }
+] },
+{ "id": "s0900-028", "en": "You will need a more modern house.", "es": "Necesitarás una casa más moderna.", "alt": ["Usted necesitará una casa más moderna."], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Necesitarás", "id": 146, "gloss": "you will need", "form": "necesitar · future · tú" },
+  { "t": "una", "id": 7, "gloss": "a", "form": "un · feminine" },
+  { "t": "casa", "id": 377, "gloss": "house" },
+  { "t": "más", "id": 23, "gloss": "more" },
+  { "t": "moderna", "id": 896, "gloss": "modern", "form": "moderno · feminine" }
+] },
+{ "id": "s0900-029", "en": "She would like a quiet restaurant.", "es": "A ella le gustaría un restaurante tranquilo.", "alt": [], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "A", "id": 5, "gloss": "to" },
+  { "t": "ella", "id": 1007, "gloss": "her" },
+  { "t": "le", "id": 19, "gloss": "to her" },
+  { "t": "gustaría", "id": 185, "gloss": "would like", "form": "gustar · conditional · le" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "restaurante", "id": 605, "gloss": "restaurant" },
+  { "t": "tranquilo", "id": 869, "gloss": "quiet" }
+] },
+{ "id": "s0900-030", "en": "I will call my honest friend tomorrow.", "es": "Llamaré a mi amigo honesto mañana.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Llamaré", "id": 114, "gloss": "I will call", "form": "llamar · future · yo" },
+  { "t": "a", "id": 5, "gloss": "(personal a)" },
+  { "t": "mi", "id": 46, "gloss": "my" },
+  { "t": "amigo", "id": 392, "gloss": "friend" },
+  { "t": "honesto", "id": 873, "gloss": "honest" },
+  { "t": "mañana", "id": 538, "gloss": "tomorrow" }
+] },
+{ "id": "s0900-031", "en": "You would be a very intelligent doctor.", "es": "Tú serías un médico muy inteligente.", "alt": ["Serías un médico muy inteligente.", "Usted sería un médico muy inteligente."], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Tú", "id": 78, "gloss": "you (informal)" },
+  { "t": "serías", "id": 8, "gloss": "you would be", "form": "ser · conditional · tú" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "médico", "id": 466, "gloss": "doctor" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "inteligente", "id": 874, "gloss": "intelligent" }
+] },
+{ "id": "s0900-032", "en": "They will live in a different country next year.", "es": "Vivirán en un país diferente el próximo año.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Vivirán", "id": 121, "gloss": "they will live", "form": "vivir · future · ellos" },
+  { "t": "en", "id": 6, "gloss": "in" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "país", "id": 380, "gloss": "country" },
+  { "t": "diferente", "id": 857, "gloss": "different" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "próximo", "id": 994, "gloss": "next" },
+  { "t": "año", "id": 54, "gloss": "year" }
+] },
+{ "id": "s0900-033", "en": "He would never make such a dangerous mistake.", "es": "Él nunca haría un error tan peligroso.", "alt": [], "stage": 6, "grammar": "conditional", "tokens": [
+  { "t": "Él", "id": 80, "gloss": "he" },
+  { "t": "nunca", "id": 94, "gloss": "never" },
+  { "t": "haría", "id": 24, "gloss": "would make", "form": "hacer · conditional · él" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "error", "id": 729, "gloss": "mistake" },
+  { "t": "tan", "id": 71, "gloss": "so", "form": "tanto · apocope" },
+  { "t": "peligroso", "id": 849, "gloss": "dangerous" }
+] },
+{ "id": "s0900-034", "en": "It will be necessary to have more time.", "es": "Será necesario tener más tiempo.", "alt": [], "stage": 6, "grammar": "future", "tokens": [
+  { "t": "Será", "id": 8, "gloss": "will be", "form": "ser · future · impersonal" },
+  { "t": "necesario", "id": 854, "gloss": "necessary" },
+  { "t": "tener", "id": 18, "gloss": "to have" },
+  { "t": "más", "id": 23, "gloss": "more" },
+  { "t": "tiempo", "id": 77, "gloss": "time" }
+] },
+{ "id": "s0900-035", "en": "Read the interesting book.", "es": "Lee el libro interesante.", "alt": ["Lea el libro interesante."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Lee", "id": 149, "gloss": "read!", "form": "leer · imperative · tú (informal)" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "libro", "id": 425, "gloss": "book" },
+  { "t": "interesante", "id": 890, "gloss": "interesting" }
+] },
+{ "id": "s0900-036", "en": "Don't open the dangerous door.", "es": "No abras la puerta peligrosa.", "alt": ["No abra la puerta peligrosa."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "abras", "id": 162, "gloss": "open!", "form": "abrir · present subjunctive · tú" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "puerta", "id": 420, "gloss": "door" },
+  { "t": "peligrosa", "id": 849, "gloss": "dangerous", "form": "peligroso · feminine" }
+] },
+{ "id": "s0900-037", "en": "Buy the blue car. (formal)", "es": "Compre el coche azul.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Compre", "id": 216, "gloss": "buy!", "form": "comprar · imperative · usted (formal)" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "coche", "id": 427, "gloss": "car" },
+  { "t": "azul", "id": 831, "gloss": "blue" }
+] },
+{ "id": "s0900-038", "en": "Don't buy the expensive car. (formal)", "es": "No compre el coche caro.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "compre", "id": 216, "gloss": "buy!", "form": "comprar · present subjunctive · usted" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "coche", "id": 427, "gloss": "car" },
+  { "t": "caro", "id": 883, "gloss": "expensive" }
+] },
+{ "id": "s0900-039", "en": "Tell me the important secret.", "es": "Dime el secreto importante.", "alt": ["Dígame el secreto importante."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Dime", "id": 27, "gloss": "tell me!", "form": "decir · imperative · tú (informal) + me" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "secreto", "id": 725, "gloss": "secret" },
+  { "t": "importante", "id": 853, "gloss": "important" }
+] },
+{ "id": "s0900-040", "en": "Explain it to me well, it's difficult.", "es": "Explícamelo bien, es difícil.", "alt": ["Explíquemelo bien, es difícil."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Explícamelo", "id": 173, "gloss": "explain it to me!", "form": "explicar · imperative · tú (informal) + me + lo" },
+  { "t": "bien", "id": 88, "gloss": "well" },
+  { "t": "es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "difícil", "id": 852, "gloss": "difficult" }
+] },
+{ "id": "s0900-041", "en": "Tell it to me, it's very important. (formal)", "es": "Dígamelo, es muy importante.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Dígamelo", "id": 27, "gloss": "tell it to me!", "form": "decir · imperative · usted (formal) + me + lo" },
+  { "t": "es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "importante", "id": 853, "gloss": "important" }
+] },
+{ "id": "s0900-042", "en": "Don't tell me, it's private. (formal)", "es": "No me lo diga, es privado.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "me", "id": 33, "gloss": "me" },
+  { "t": "lo", "id": 20, "gloss": "it" },
+  { "t": "diga", "id": 27, "gloss": "tell!", "form": "decir · present subjunctive · usted" },
+  { "t": "es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "privado", "id": 900, "gloss": "private" }
+] },
+{ "id": "s0900-043", "en": "Don't tell it to anyone, it's public.", "es": "No se lo digas a nadie, es público.", "alt": ["No se lo diga a nadie, es público."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "se", "id": 9, "gloss": "to them" },
+  { "t": "lo", "id": 20, "gloss": "it" },
+  { "t": "digas", "id": 27, "gloss": "tell!", "form": "decir · present subjunctive · tú" },
+  { "t": "a", "id": 5, "gloss": "to" },
+  { "t": "nadie", "id": 979, "gloss": "anyone" },
+  { "t": "es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "público", "id": 899, "gloss": "public" }
+] },
+{ "id": "s0900-044", "en": "Do the difficult work now.", "es": "Haz el trabajo difícil ahora.", "alt": ["Haga el trabajo difícil ahora."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Haz", "id": 24, "gloss": "do!", "form": "hacer · imperative · tú (informal)" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "trabajo", "id": 402, "gloss": "work" },
+  { "t": "difícil", "id": 852, "gloss": "difficult" },
+  { "t": "ahora", "id": 92, "gloss": "now" }
+] },
+{ "id": "s0900-045", "en": "Do the necessary work. (formal)", "es": "Haga el trabajo necesario.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Haga", "id": 24, "gloss": "do!", "form": "hacer · imperative · usted (formal)" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "trabajo", "id": 402, "gloss": "work" },
+  { "t": "necesario", "id": 854, "gloss": "necessary" }
+] },
+{ "id": "s0900-046", "en": "Don't do anything dangerous.", "es": "No hagas nada peligroso.", "alt": ["No haga nada peligroso."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "hagas", "id": 24, "gloss": "do!", "form": "hacer · present subjunctive · tú" },
+  { "t": "nada", "id": 64, "gloss": "anything" },
+  { "t": "peligroso", "id": 849, "gloss": "dangerous" }
+] },
+{ "id": "s0900-047", "en": "Don't do anything foolish. (formal)", "es": "No haga nada tonto.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "haga", "id": 24, "gloss": "do!", "form": "hacer · present subjunctive · usted" },
+  { "t": "nada", "id": 64, "gloss": "anything" },
+  { "t": "tonto", "id": 875, "gloss": "foolish" }
+] },
+{ "id": "s0900-048", "en": "Put the clean book on the table.", "es": "Pon el libro limpio en la mesa.", "alt": ["Ponga el libro limpio en la mesa."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Pon", "id": 53, "gloss": "put!", "form": "poner · imperative · tú (informal)" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "libro", "id": 425, "gloss": "book" },
+  { "t": "limpio", "id": 860, "gloss": "clean" },
+  { "t": "en", "id": 6, "gloss": "on" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "mesa", "id": 422, "gloss": "table" }
+] },
+{ "id": "s0900-049", "en": "Put the dirty clothes in the kitchen. (formal)", "es": "Ponga la ropa sucia en la cocina.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Ponga", "id": 53, "gloss": "put!", "form": "poner · imperative · usted (formal)" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "ropa", "id": 572, "gloss": "clothes" },
+  { "t": "sucia", "id": 861, "gloss": "dirty", "form": "sucio · feminine" },
+  { "t": "en", "id": 6, "gloss": "in" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "cocina", "id": 587, "gloss": "kitchen" }
+] },
+{ "id": "s0900-050", "en": "Don't put the empty chair there.", "es": "No pongas la silla vacía allí.", "alt": ["No ponga la silla vacía allí."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "pongas", "id": 53, "gloss": "put!", "form": "poner · present subjunctive · tú" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "silla", "id": 423, "gloss": "chair" },
+  { "t": "vacía", "id": 846, "gloss": "empty", "form": "vacío · feminine" },
+  { "t": "allí", "id": 90, "gloss": "there" }
+] },
+{ "id": "s0900-051", "en": "Don't put the closed book there. (formal)", "es": "No ponga el libro cerrado allí.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "ponga", "id": 53, "gloss": "put!", "form": "poner · present subjunctive · usted" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "libro", "id": 425, "gloss": "book" },
+  { "t": "cerrado", "id": 848, "gloss": "closed" },
+  { "t": "allí", "id": 90, "gloss": "there" }
+] },
+{ "id": "s0900-052", "en": "Leave the empty house now.", "es": "Sal de la casa vacía ahora.", "alt": ["Salga de la casa vacía ahora."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Sal", "id": 117, "gloss": "leave!", "form": "salir · imperative · tú (informal)" },
+  { "t": "de", "id": 1, "gloss": "of" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "casa", "id": 377, "gloss": "house" },
+  { "t": "vacía", "id": 846, "gloss": "empty", "form": "vacío · feminine" },
+  { "t": "ahora", "id": 92, "gloss": "now" }
+] },
+{ "id": "s0900-053", "en": "Leave the dangerous hospital now. (formal)", "es": "Salga del hospital peligroso ahora.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Salga", "id": 117, "gloss": "leave!", "form": "salir · imperative · usted (formal)" },
+  { "t": "del", "id": 1, "gloss": "from the" },
+  { "t": "hospital", "id": 465, "gloss": "hospital" },
+  { "t": "peligroso", "id": 849, "gloss": "dangerous" },
+  { "t": "ahora", "id": 92, "gloss": "now" }
+] },
+{ "id": "s0900-054", "en": "Don't leave the door open.", "es": "No dejes la puerta abierta.", "alt": ["No deje la puerta abierta."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "dejes", "id": 52, "gloss": "leave!", "form": "dejar · present subjunctive · tú" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "puerta", "id": 420, "gloss": "door" },
+  { "t": "abierta", "id": 847, "gloss": "open", "form": "abierto · feminine" }
+] },
+{ "id": "s0900-055", "en": "Don't leave the window open. (formal)", "es": "No deje la ventana abierta.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "deje", "id": 52, "gloss": "leave!", "form": "dejar · present subjunctive · usted" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "ventana", "id": 421, "gloss": "window" },
+  { "t": "abierta", "id": 847, "gloss": "open", "form": "abierto · feminine" }
+] },
+{ "id": "s0900-056", "en": "Have a lot of confidence in the important plan.", "es": "Ten mucha confianza en el plan importante.", "alt": ["Tenga mucha confianza en el plan importante."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Ten", "id": 18, "gloss": "have!", "form": "tener · imperative · tú (informal)" },
+  { "t": "mucha", "id": 42, "gloss": "a lot of", "form": "mucho · feminine" },
+  { "t": "confianza", "id": 743, "gloss": "confidence" },
+  { "t": "en", "id": 6, "gloss": "in" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "importante", "id": 853, "gloss": "important" }
+] },
+{ "id": "s0900-057", "en": "Have more confidence in the difficult plan. (formal)", "es": "Tenga más confianza en el plan difícil.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Tenga", "id": 18, "gloss": "have!", "form": "tener · imperative · usted (formal)" },
+  { "t": "más", "id": 23, "gloss": "more" },
+  { "t": "confianza", "id": 743, "gloss": "confidence" },
+  { "t": "en", "id": 6, "gloss": "in" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "difícil", "id": 852, "gloss": "difficult" }
+] },
+{ "id": "s0900-058", "en": "Don't have doubts, it's a safe plan.", "es": "No tengas dudas, es un plan seguro.", "alt": ["No tenga dudas, es un plan seguro."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "tengas", "id": 18, "gloss": "have!", "form": "tener · present subjunctive · tú" },
+  { "t": "dudas", "id": 728, "gloss": "doubts", "form": "duda · plural" },
+  { "t": "es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "seguro", "id": 843, "gloss": "safe" }
+] },
+{ "id": "s0900-059", "en": "Don't have doubts about the important plan. (formal)", "es": "No tenga dudas sobre el plan importante.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "tenga", "id": 18, "gloss": "have!", "form": "tener · present subjunctive · usted" },
+  { "t": "dudas", "id": 728, "gloss": "doubts", "form": "duda · plural" },
+  { "t": "sobre", "id": 45, "gloss": "about" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "importante", "id": 853, "gloss": "important" }
+] },
+{ "id": "s0900-060", "en": "Come here now, it's important.", "es": "Ven aquí ahora, es importante.", "alt": ["Venga aquí ahora, es importante."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Ven", "id": 115, "gloss": "come!", "form": "venir · imperative · tú (informal)" },
+  { "t": "aquí", "id": 89, "gloss": "here" },
+  { "t": "ahora", "id": 92, "gloss": "now" },
+  { "t": "es", "id": 8, "gloss": "it's", "form": "ser · present · él" },
+  { "t": "importante", "id": 853, "gloss": "important" }
+] },
+{ "id": "s0900-061", "en": "Come to the modern hotel. (formal)", "es": "Venga al hotel moderno.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Venga", "id": 115, "gloss": "come!", "form": "venir · imperative · usted (formal)" },
+  { "t": "al", "id": 5, "gloss": "to the" },
+  { "t": "hotel", "id": 604, "gloss": "hotel" },
+  { "t": "moderno", "id": 896, "gloss": "modern" }
+] },
+{ "id": "s0900-062", "en": "Don't come to the boring party.", "es": "No vengas a la fiesta aburrida.", "alt": ["No venga a la fiesta aburrida."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "vengas", "id": 115, "gloss": "come!", "form": "venir · present subjunctive · tú" },
+  { "t": "a", "id": 5, "gloss": "to" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "fiesta", "id": 531, "gloss": "party" },
+  { "t": "aburrida", "id": 889, "gloss": "boring", "form": "aburrido · feminine" }
+] },
+{ "id": "s0900-063", "en": "Don't come to the empty office. (formal)", "es": "No venga a la oficina vacía.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "venga", "id": 115, "gloss": "come!", "form": "venir · present subjunctive · usted" },
+  { "t": "a", "id": 5, "gloss": "to" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "oficina", "id": 464, "gloss": "office" },
+  { "t": "vacía", "id": 846, "gloss": "empty", "form": "vacío · feminine" }
+] },
+{ "id": "s0900-064", "en": "Go to the typical restaurant.", "es": "Ve al restaurante típico.", "alt": ["Vaya al restaurante típico."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Ve", "id": 29, "gloss": "go!", "form": "ir · imperative · tú (informal)" },
+  { "t": "al", "id": 5, "gloss": "to the" },
+  { "t": "restaurante", "id": 605, "gloss": "restaurant" },
+  { "t": "típico", "id": 895, "gloss": "typical" }
+] },
+{ "id": "s0900-065", "en": "Go to the modern hospital. (formal)", "es": "Vaya al hospital moderno.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Vaya", "id": 29, "gloss": "go!", "form": "ir · imperative · usted (formal)" },
+  { "t": "al", "id": 5, "gloss": "to the" },
+  { "t": "hospital", "id": 465, "gloss": "hospital" },
+  { "t": "moderno", "id": 896, "gloss": "modern" }
+] },
+{ "id": "s0900-066", "en": "Don't go along the dangerous street.", "es": "No vayas por la calle peligrosa.", "alt": ["No vaya por la calle peligrosa."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "vayas", "id": 29, "gloss": "go!", "form": "ir · present subjunctive · tú" },
+  { "t": "por", "id": 12, "gloss": "along" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "calle", "id": 428, "gloss": "street" },
+  { "t": "peligrosa", "id": 849, "gloss": "dangerous", "form": "peligroso · feminine" }
+] },
+{ "id": "s0900-067", "en": "Don't go to the sad party. (formal)", "es": "No vaya a la fiesta triste.", "alt": [], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "No", "id": 10, "gloss": "don't" },
+  { "t": "vaya", "id": 29, "gloss": "go!", "form": "ir · present subjunctive · usted" },
+  { "t": "a", "id": 5, "gloss": "to" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "fiesta", "id": 531, "gloss": "party" },
+  { "t": "triste", "id": 864, "gloss": "sad" }
+] },
+{ "id": "s0900-068", "en": "Always be honest.", "es": "Sé honesto siempre.", "alt": ["Sea honesto siempre."], "stage": 7, "grammar": "imperative", "tokens": [
+  { "t": "Sé", "id": 8, "gloss": "be!", "form": "ser · imperative · tú (informal)" },
+  { "t": "honesto", "id": 873, "gloss": "honest" },
+  { "t": "siempre", "id": 93, "gloss": "always" }
+] },
+{ "id": "s0900-069", "en": "The sky is very blue.", "es": "El cielo está muy azul.", "alt": [], "stage": 1, "grammar": "present", "tokens": [
+  { "t": "El", "id": 2, "gloss": "the" },
+  { "t": "cielo", "id": 432, "gloss": "sky" },
+  { "t": "está", "id": 17, "gloss": "is", "form": "estar · present · él" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "azul", "id": 831, "gloss": "blue" }
+] },
+{ "id": "s0900-070", "en": "I bought a cheap car last week.", "es": "Compré un coche barato la semana pasada.", "alt": [], "stage": 3, "grammar": "preterite", "tokens": [
+  { "t": "Compré", "id": 216, "gloss": "I bought", "form": "comprar · preterite · yo" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "coche", "id": 427, "gloss": "car" },
+  { "t": "barato", "id": 884, "gloss": "cheap" },
+  { "t": "la", "id": 2, "gloss": "the", "form": "el · feminine" },
+  { "t": "semana", "id": 533, "gloss": "week" },
+  { "t": "pasada", "id": 749, "gloss": "last", "form": "pasado · feminine, adjectival" }
+] },
+{ "id": "s0900-071", "en": "She found an easy solution.", "es": "Ella encontró una solución fácil.", "alt": [], "stage": 3, "grammar": "preterite", "tokens": [
+  { "t": "Ella", "id": 1007, "gloss": "she" },
+  { "t": "encontró", "id": 113, "gloss": "found", "form": "encontrar · preterite · ella" },
+  { "t": "una", "id": 7, "gloss": "a", "form": "un · feminine" },
+  { "t": "solución", "id": 483, "gloss": "solution" },
+  { "t": "fácil", "id": 851, "gloss": "easy" }
+] },
+{ "id": "s0900-072", "en": "When I was young, I was very calm.", "es": "Cuando era joven, era muy tranquilo.", "alt": [], "stage": 4, "grammar": "imperfect", "tokens": [
+  { "t": "Cuando", "id": 38, "gloss": "when" },
+  { "t": "era", "id": 8, "gloss": "was", "form": "ser · imperfect · yo" },
+  { "t": "joven", "id": 110, "gloss": "young" },
+  { "t": "era", "id": 8, "gloss": "was", "form": "ser · imperfect · yo" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "tranquilo", "id": 869, "gloss": "calm" }
+] },
+{ "id": "s0900-073", "en": "I have never seen anything so strange.", "es": "Nunca he visto algo tan raro.", "alt": [], "stage": 5, "grammar": "perfect", "tokens": [
+  { "t": "Nunca", "id": 94, "gloss": "never" },
+  { "t": "he", "id": 11, "gloss": "have", "form": "haber · present · yo" },
+  { "t": "visto", "id": 35, "gloss": "seen", "form": "ver · past participle" },
+  { "t": "algo", "id": 980, "gloss": "anything" },
+  { "t": "tan", "id": 71, "gloss": "so", "form": "tanto · apocope" },
+  { "t": "raro", "id": 894, "gloss": "strange" }
+] },
+{ "id": "s0900-074", "en": "Is the water clean?", "es": "¿Está limpia el agua?", "alt": [], "stage": 1, "grammar": "present", "tokens": [
+  { "t": "Está", "id": 17, "gloss": "is", "form": "estar · present · ella" },
+  { "t": "limpia", "id": 860, "gloss": "clean", "form": "limpio · feminine" },
+  { "t": "el", "id": 2, "gloss": "the" },
+  { "t": "agua", "id": 378, "gloss": "water" }
+] },
+{ "id": "s0900-075", "en": "He wrote an important letter.", "es": "Él escribió una carta importante.", "alt": [], "stage": 3, "grammar": "preterite", "tokens": [
+  { "t": "Él", "id": 80, "gloss": "he" },
+  { "t": "escribió", "id": 132, "gloss": "wrote", "form": "escribir · preterite · él" },
+  { "t": "una", "id": 7, "gloss": "a", "form": "un · feminine" },
+  { "t": "carta", "id": 527, "gloss": "letter" },
+  { "t": "importante", "id": 853, "gloss": "important" }
+] },
+{ "id": "s0900-076", "en": "We didn't use to have much free time.", "es": "No teníamos mucho tiempo libre.", "alt": [], "stage": 4, "grammar": "imperfect", "tokens": [
+  { "t": "No", "id": 10, "gloss": "not" },
+  { "t": "teníamos", "id": 18, "gloss": "we used to have", "form": "tener · imperfect · nosotros" },
+  { "t": "mucho", "id": 42, "gloss": "much" },
+  { "t": "tiempo", "id": 77, "gloss": "time" },
+  { "t": "libre", "id": 844, "gloss": "free" }
+] },
+{ "id": "s0900-077", "en": "Have you ever been to a modern hotel?", "es": "¿Has estado alguna vez en un hotel moderno?", "alt": ["¿Ha estado usted alguna vez en un hotel moderno?"], "stage": 5, "grammar": "perfect", "tokens": [
+  { "t": "Has", "id": 11, "gloss": "have", "form": "haber · present · tú" },
+  { "t": "estado", "id": 17, "gloss": "been", "form": "estar · past participle" },
+  { "t": "alguna", "id": 96, "gloss": "some", "form": "alguno · feminine" },
+  { "t": "vez", "id": 41, "gloss": "time" },
+  { "t": "en", "id": 6, "gloss": "in" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "hotel", "id": 604, "gloss": "hotel" },
+  { "t": "moderno", "id": 896, "gloss": "modern" }
+] },
+{ "id": "s0900-078", "en": "That plan isn't very useful.", "es": "Ese plan no es muy útil.", "alt": [], "stage": 1, "grammar": "present", "tokens": [
+  { "t": "Ese", "id": 31, "gloss": "that" },
+  { "t": "plan", "id": 506, "gloss": "plan" },
+  { "t": "no", "id": 10, "gloss": "not" },
+  { "t": "es", "id": 8, "gloss": "is", "form": "ser · present · él" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "útil", "id": 850, "gloss": "useful" }
+] },
+{ "id": "s0900-079", "en": "They lost an important game.", "es": "Ellos perdieron un partido importante.", "alt": [], "stage": 3, "grammar": "preterite", "tokens": [
+  { "t": "Ellos", "id": 83, "gloss": "they" },
+  { "t": "perdieron", "id": 133, "gloss": "lost", "form": "perder · preterite · ellos" },
+  { "t": "un", "id": 7, "gloss": "a" },
+  { "t": "partido", "id": 720, "gloss": "game" },
+  { "t": "importante", "id": 853, "gloss": "important" }
+] },
+{ "id": "s0900-080", "en": "My grandmother is very generous.", "es": "Mi abuela es muy generosa.", "alt": [], "stage": 1, "grammar": "present", "tokens": [
+  { "t": "Mi", "id": 46, "gloss": "my" },
+  { "t": "abuela", "id": 682, "gloss": "grandmother" },
+  { "t": "es", "id": 8, "gloss": "is", "form": "ser · present · ella" },
+  { "t": "muy", "id": 39, "gloss": "very" },
+  { "t": "generosa", "id": 872, "gloss": "generous", "form": "generoso · feminine" }
+] }
+]

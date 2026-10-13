@@ -1,0 +1,165 @@
+:root {
+  --bg: #f7f7fb;
+  --surface: #ffffff;
+  --surface-2: #eef0f6;
+  --text: #1c1b22;
+  --text-muted: #6b6b78;
+  --border: #dedde6;
+  --accent: #4f46e5;
+  --accent-text: #ffffff;
+  --good: #1b8a4c;
+  --good-bg: #e3f6ea;
+  --hard: #b8770a;
+  --hard-bg: #fdf1dc;
+  --bad: #c62828;
+  --bad-bg: #fce7e7;
+  --chip-bg: #eef0f6;
+  --chip-new-bg: #e6e2ff;
+  --shadow: rgba(20, 20, 40, 0.08) 0 4px 16px;
+
+  color-scheme: light dark;
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.45;
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #131319;
+    --surface: #1c1c26;
+    --surface-2: #23232f;
+    --text: #f0f0f5;
+    --text-muted: #a2a2b3;
+    --border: #34343f;
+    --accent: #8b83f6;
+    --accent-text: #131319;
+    --good: #4fd08a;
+    --good-bg: #123822;
+    --hard: #e0a637;
+    --hard-bg: #3a2c0e;
+    --bad: #ef6161;
+    --bad-bg: #3a1717;
+    --chip-bg: #23232f;
+    --chip-new-bg: #2e2a52;
+    --shadow: rgba(0, 0, 0, 0.4) 0 4px 16px;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  font-family: inherit;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+input {
+  font-family: inherit;
+}
+
+a {
+  color: var(--accent);
+}
+
+.btn {
+  appearance: none;
+  border: none;
+  border-radius: 12px;
+  padding: 0.9rem 1.4rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  min-height: 48px;
+  min-width: 48px;
+  background: var(--surface-2);
+  color: var(--text);
+  transition: transform 0.05s ease, opacity 0.15s ease;
+}
+
+.btn:active {
+  transform: scale(0.97);
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: var(--accent-text);
+}
+
+.btn-block {
+  width: 100%;
+  display: block;
+}
+
+.btn-ghost {
+  background: transparent;
+  border: 1px solid var(--border);
+}
+
+.card {
+  background: var(--surface);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  padding: 1.25rem;
+}
+
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.text-muted {
+  color: var(--text-muted);
+}
+
+.feedback-good {
+  color: var(--good);
+  background: var(--good-bg);
+}
+
+.feedback-hard {
+  color: var(--hard);
+  background: var(--hard-bg);
+}
+
+.feedback-bad {
+  color: var(--bad);
+  background: var(--bad-bg);
+}
+
+.feedback-banner {
+  border-radius: 12px;
+  padding: 1rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}

@@ -1,0 +1,209 @@
+{
+ "promote": {
+  "uno": 40,
+  "cuatro": 95,
+  "cinco": 96,
+  "seis": 140,
+  "siete": 141,
+  "ocho": 142,
+  "nueve": 143,
+  "diez": 144,
+  "cien": 230,
+  "mil": 231,
+  "casa": 60,
+  "agua": 80,
+  "comer": 90,
+  "hola": 20,
+  "gracias": 21,
+  "ella": 25,
+  "te": 30,
+  "eso": 35,
+  "hablar": 60,
+  "hoy": 65,
+  "cómo": 70,
+  "antes": 75,
+  "tu": 55,
+  "la": 40,
+  "les": 45,
+  "dónde": 95,
+  "esto": 90,
+  "nos": 85,
+  "cuándo": 105,
+  "quién": 100,
+  "ustedes": 110,
+  "todavía": 115,
+  "ayer": 150,
+  "cuál": 130,
+  "los": 140,
+  "las": 150,
+  "mí": 160,
+  "ti": 165,
+  "ellas": 180,
+  "hija": 210,
+  "hermana": 220,
+  "dieciséis": 240,
+  "diecisiete": 241,
+  "dieciocho": 242,
+  "diecinueve": 243,
+  "aquello": 260,
+  "anoche": 320,
+  "prima": 400,
+  "nieta": 410,
+  "sobrina": 420,
+  "llevar": 120,
+  "traer": 210,
+  "seguir": 60,
+  "doler": 350,
+  "cuidar": 320,
+  "cometer": 700,
+  "contratar": 750,
+  "cruzar": 400,
+  "llover": 600,
+  "nevar": 850,
+  "costar": 230,
+  "responder": 260,
+  "confiar": 500,
+  "dudar": 550,
+  "prometer": 620,
+  "continuar": 190,
+  "parar": 300,
+  "entregar": 480,
+  "devolver": 460,
+  "compartir": 440,
+  "coger": 280,
+  "probar": 340,
+  "oler": 610,
+  "luchar": 470,
+  "defender": 520,
+  "competir": 580,
+  "mudarse": 900,
+  "quemar": 640,
+  "seco": 380,
+  "mojado": 660,
+  "dulce": 420,
+  "salado": 670,
+  "agradable": 330,
+  "cortés": 780,
+  "sincero": 560,
+  "fiel": 590,
+  "valiente": 630,
+  "tímido": 680,
+  "casado": 360,
+  "soltero": 690,
+  "embarazada": 800,
+  "maduro": 720,
+  "dorado": 760,
+  "enojado": 370,
+  "orgulloso": 450,
+  "enamorado": 430,
+  "listo": 130,
+  "estúpido": 570,
+  "menos": 110,
+  "jamás": 250,
+  "sin embargo": 160,
+  "tan": 100,
+  "así": 90,
+  "tal vez": 220,
+  "aún": 170,
+  "a veces": 150,
+  "cosa": 70,
+  "favor": 180,
+  "huevo": 490,
+  "pollo": 510,
+  "arroz": 530,
+  "sopa": 540,
+  "tomate": 620,
+  "cebolla": 650,
+  "queso": 460,
+  "pastel": 830,
+  "desayuno": 390,
+  "almuerzo": 410,
+  "cena": 350,
+  "cuchara": 840,
+  "tenedor": 850,
+  "cuchillo": 730,
+  "plato": 410,
+  "vaso": 500,
+  "taza": 700,
+  "cuenta": 240,
+  "sofá": 810,
+  "espejo": 670,
+  "llave": 480,
+  "farmacia": 650,
+  "maleta": 740,
+  "clima": 420,
+  "fecha": 300,
+  "reloj": 480,
+  "examen": 400,
+  "lápiz": 690,
+  "sueldo": 550,
+  "doctor": 320,
+  "fiebre": 710,
+  "camiseta": 600,
+  "cinturón": 790,
+  "mejor": 110,
+  "peor": 180
+ },
+ "patch": {
+  "enfadar": {
+   "accept": [
+    "enojar"
+   ]
+  },
+  "enojar": {
+   "accept": [
+    "enfadar"
+   ]
+  },
+  "enero": {
+   "es": "enero"
+  },
+  "febrero": {
+   "es": "febrero"
+  },
+  "marzo": {
+   "es": "marzo"
+  },
+  "abril": {
+   "es": "abril"
+  },
+  "mayo": {
+   "es": "mayo"
+  },
+  "junio": {
+   "es": "junio"
+  },
+  "julio": {
+   "es": "julio"
+  },
+  "agosto": {
+   "es": "agosto"
+  },
+  "septiembre": {
+   "es": "septiembre"
+  },
+  "octubre": {
+   "es": "octubre"
+  },
+  "noviembre": {
+   "es": "noviembre"
+  },
+  "diciembre": {
+   "es": "diciembre"
+  },
+  "el": {
+   "accept": [
+    "la",
+    "los",
+    "las"
+   ]
+  },
+  "un": {
+   "accept": [
+    "una",
+    "unos",
+    "unas"
+   ]
+  }
+ }
+}
